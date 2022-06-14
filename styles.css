@@ -11354,3 +11354,7 @@ textarea.form-control-lg {
   width: 4rem;
   font-size: 2rem;
 }
+
+[class^="bi-"]::before, [class*=" bi-"]::before {
+  vertical-align:middle
+}
